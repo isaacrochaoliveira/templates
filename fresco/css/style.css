@@ -15,3 +15,19 @@
     margin: 0px 10px;
     color: white;
 }
+.nav-link {
+    color: #3e3e3e;
+}
+
+.active-a {
+    color: #FF8800;
+}
+
+
+.nav-link:hover {
+    color: #FF8800;
+}
+
+.header_primary {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rbga(0, 0, 0, 0.4)), url('../img/pizzaria-hero-fundo01.jpg');
+}
