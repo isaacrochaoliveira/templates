@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.line-above {
+    background-color: #FF8800;
+    padding: 3px 10px 0px 10px;
+}
+
+.list-style {
+    list-style: none;
+    margin: 0px 10px;
+    color: white;
+}
