@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Berkshire';
+    src: url('../fonts/Berkshire_Swash/BerkshireSwash-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Josefinsans-Regular';
+    src: url('../fonts/Josefin_Sans/static/JosefinSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Josefinsans-LightItalic';
+    src: url('../fonts/Josefin_Sans/static/JosefinSans-LightItalic.ttf');
+}
